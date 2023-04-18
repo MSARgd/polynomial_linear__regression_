@@ -13,28 +13,10 @@
         <div class="text-container">
             <h2 id="description">Description</h2>
             <ul>
-            <li></li>
-            <li>   </li>
+            <li><img class="image" src="3.png alt="img"></li>
+            <li>  <img class="image" src="1.png" alt="img">  </li>
+            <li>  <img class="image" src="4.png" alt="img"> </li>
             </ul>
         </div>
       </div>
     <hr>
-
-       
-      <div class="container">
-           <div class="text-container">
-        <div class="image-container">
-            <img class="image" src="3.png alt="img">
-        </div>
-        
-         <div class="image-container">
-             <img class="image" src="1.png" alt="img">
-         </div>
-         
-          <div class="image-container">
-              <img class="image" src="4.png" alt="img">
-          </div>
-          </div>
-      </div>
-    <hr>
- 

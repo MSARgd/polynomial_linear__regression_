@@ -13,7 +13,7 @@
         <div class="text-container">
             <h2 id="description">Description</h2>
             <ul>
-            <li><img class="image" src="3.png alt="img"></li>
+            <li>  <img class="image" src="3.png" alt="img">  </li>
             <li>  <img class="image" src="1.png" alt="img">  </li>
             <li>  <img class="image" src="4.png" alt="img"> </li>
             </ul>

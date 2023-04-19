@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr 12 14:49:27 2023
+Created on Fri Apr 14 13:41:01 2023
+
 @author: msa
 """
 # target is petal_width   f.iloc[:1,1:2]
